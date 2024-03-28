@@ -1,0 +1,1 @@
+- [백준 - 최대값](https://www.acmicpc.net/problem/2562)

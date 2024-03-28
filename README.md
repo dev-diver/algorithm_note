@@ -5,11 +5,12 @@
 - 카운팅
 - 구간 합 (Prefix Sum)
 - 정렬
+- 재귀
+- 브루트포스, 백트래킹
 - 스택, 큐
   - 스택
   - 큐
 - 리더
-- 배열의 최대 합 (Maximum slice problem)
 - 소수, 합성수
   - 인수 세기
   - 에라토스 테네스의 체
@@ -25,9 +26,12 @@
 
 ## [Snippet](./Snippet/README.md)
 
-- 입력 받기
+- (빠른)입력,출력
+- 배열 기본 (with 시간 복잡도)
 - 반복문
 - Iterable 자료형 함수
+
+- 마이너 함수
 
 ## 구현
 
@@ -42,3 +46,8 @@
   - 스택
   - 큐
   - 트리
+
+## 유명 문제
+
+- 외판원 순회문제(TSP;Traveling Salesman problem)
+- 배열의 최대 합 (Maximum slice problem)
