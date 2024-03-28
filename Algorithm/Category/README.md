@@ -1,0 +1,23 @@
+# 알고리즘
+
+- 카운팅
+- 구간 합 (Prefix Sum)
+- 정렬
+- 재귀
+- 브루트포스, 백트래킹
+- 스택, 큐
+  - 스택
+  - 큐
+- 리더
+- 소수, 합성수
+  - 인수 세기
+  - 에라토스 테네스의 체
+  - 유클리드 알고리즘 (GCD,LCM)
+- 이분 탐색
+- 캐터필라 메소드
+- 그리디 알고리즘
+- 다이나믹 프로그래밍
+  - 피보나치 (+행렬 풀이)
+- [그래프 탐색](/Algorithm/Category/Graph_Search/)
+  - [DFS](/Algorithm/Category/Graph_Search/DFS/)
+  - [BFS](/Algorithm/Category/Graph_Search/DFS/)
