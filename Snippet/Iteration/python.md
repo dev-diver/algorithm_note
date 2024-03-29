@@ -29,3 +29,18 @@ for key, value in my_dict.items():
     print(key, value)  # ('a', 1), ('b', 2), ('c', 3)
 
 ```
+
+# 고급
+
+- Generator 만들기 (yield)
+- [Generator의 장.단점]()
+
+```python
+def num_generator():
+  yield 0
+  yield 1
+  yield 2
+
+for i in nmuber_generator():
+  print(i)
+```

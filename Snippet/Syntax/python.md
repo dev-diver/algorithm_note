@@ -13,3 +13,16 @@ def increment():
     x += 1
 
 ```
+
+# 큰 수
+
+```python
+MAX = 1e9
+```
+
+- 재귀 한도 설정
+
+```python
+import sys
+sys.setrecursionlimit(1e9)
+```
