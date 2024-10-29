@@ -13,6 +13,7 @@ for i,v in enumerate(arr):
 
 # Object
 
+* 3.8부터 순회시, dictionary에 삽입된 순서가 보장됨
 ```python
 my_dict = {'a': 1, 'b': 2, 'c': 3}
 
@@ -33,7 +34,7 @@ for key, value in my_dict.items():
 # 고급
 
 - Generator 만들기 (yield)
-- [Generator의 장.단점]()
+- [Generator의 장.단점](./discussion1.md)
 
 ```python
 def num_generator():
